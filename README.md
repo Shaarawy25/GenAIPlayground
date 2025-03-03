@@ -1,2 +1,2 @@
-# GenAIPlayground
-Playing around with some GenAI models
+#The GenAI Playground
+Playing around with some generative AI models
